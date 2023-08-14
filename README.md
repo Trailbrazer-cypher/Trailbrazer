@@ -14,7 +14,7 @@ Welcome to my GitHub profile! 👋 I'm a developer with a passion for technology
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trailblazer-cypher&show_icons=true&theme=radical)
+
 
 ## My Projects
 
