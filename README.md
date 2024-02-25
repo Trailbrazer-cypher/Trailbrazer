@@ -24,6 +24,9 @@ Welcome to my GitHub profile! 👋 I'm a developer with a passion for technology
 
 - Twitter: [@GTrailblazer](https://twitter.com/GTrailblazer)
 - LinkedIn: [Trailblazer-cypher](https://www.linkedin.com/in/trailblazer-cypher-001165196)
+
+- ## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
   
 Feel free to connect with me and explore my projects. Let's collaborate and create something amazing together! 🚀
 Check this out and modify where necessary.
