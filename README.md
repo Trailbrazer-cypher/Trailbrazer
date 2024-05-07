@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rich Victor Emanuel</h1>
+<h1 align="center">Hi 👋, I'm Trailblazer-dev (Rich Victor Emanuel)</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 <img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/200w.gif?cid=6c09b952vig95wxmhl8shvt8h8ggiys5e1se24ed4zibrqam&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Coding GIF">
 
